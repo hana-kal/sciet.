@@ -1,0 +1,95 @@
+/* general */
+body {
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 20px;
+    background: #f8f9fa; 
+    color: #333;
+}
+
+/* header */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* explore tabs */
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+nav button {
+    background: #b5d6b2;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: Georgia, serif;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+nav button:hover {
+    background: #a0c49d;
+}
+
+/* search bar */
+#searchInput {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* entry styles */
+.entry {
+    background: #ffffff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* entry headings */
+.entry h2 {
+    margin: 0 0 10px;
+    font-size: 20px;
+    color: #333;
+}
+
+
+/* general paragraph styling */
+.entry p {
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#emailButton {
+    background-color: #b5d6b2;
+    color: #333; 
+    border: none;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-family: Georgia, serif;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+#emailButton:hover {
+    background-color: #a0c49d; 
+}
+
+.entry {
+    cursor: pointer; 
+}
+
+.entry:hover {
+    background-color: rgba(0, 0, 0, 0.05); /* hover effect */
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SciEtymology</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>SciEtymology</h1>
+    <h2><i>Latin & Greek for the Life Sciences</i></h2>
+    <h5> Scroll through etymology entries, sort by category with the "explore" tabs, 
+        or search the root/prefix/suffix you're looking for in the search bar. Click a term card to get 
+        a full Google search on it! </h5>
+    
+    <!-- explore tabs -->
+    <nav>
+      <button id="tab-roots">Explore Roots</button>
+      <button id="tab-prefixes">Explore Prefixes</button>
+      <button id="tab-suffixes">Explore Suffixes</button>
+    </nav>
+
+    <!-- something wrong button -->
+    <button id="emailButton" onclick="copyEmail()" title="Something missing/wrong? Let me know!">
+        Something missing?
+    </button>
+
+    <!-- search bar -->
+    <input type="text" id="searchInput" placeholder="Search terms...">
+  </header>
+  
+  <main id="entriesContainer">
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
