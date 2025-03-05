@@ -1,0 +1,3511 @@
+[
+    {
+      "term": "aer/o",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "air",
+      "usage_examples": ["aerobic", "aerodynamics", "aerospace"]
+    },
+    {
+      "term": "agro",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "field, land",
+      "usage_examples": ["agriculture", "agronomy", "agrarian"]
+    },
+    {
+      "term": "allo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "other, different",
+      "usage_examples": ["allocate", "allopathy", "allogenic"]
+    },
+    {
+      "term": "an-",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "without, lacking",
+      "usage_examples": ["anhydrous", "anesthetic", "anomaly"]
+    },
+    {
+      "term": "ana",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "up, back, again",
+      "usage_examples": ["analyze", "anabolism", "anaphora"]
+    },
+    {
+      "term": "andr/andro",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "man, male",
+      "usage_examples": ["androgen", "android", "misandry"]
+    },
+    {
+      "term": "anthr/anthro",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "human",
+      "usage_examples": ["anthropology", "anthropomorphic", "misanthrope"]
+    },
+    {
+      "term": "anti",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "against",
+      "usage_examples": ["antibiotic", "antidote", "antifungal"]
+    },
+    {
+      "term": "apo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "away from, separate",
+      "usage_examples": ["apogee", "apoptosis", "apoplexy"]
+    },
+    {
+      "term": "arch",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "chief, principal",
+      "usage_examples": ["monarch", "archangel", "anarchist"]
+    },
+    {
+      "term": "astro",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "star, celestial",
+      "usage_examples": ["astronomy", "astrophysics", "asteroid"]
+    },
+    {
+      "term": "auto",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "self",
+      "usage_examples": ["autobiography", "automatic", "autonomy"]
+    },
+    {
+      "term": "bacter",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "rod (and by extension, bacteria)",
+      "usage_examples": ["bacterium", "bacterial", "bacteriophage"]
+    },
+    {
+      "term": "bio",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "life",
+      "usage_examples": ["biology", "biography", "biodiversity"]
+    },
+    {
+      "term": "bry/o",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "moss, filamentous growth",
+      "usage_examples": ["bryophyte", "bryology"]
+    },
+    {
+      "term": "cardi/o",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "heart",
+      "usage_examples": ["cardiac", "cardiology", "cardiogram"]
+    },
+    {
+      "term": "carn",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "flesh",
+      "usage_examples": ["carnivore", "carnage", "reincarnate"]
+    },
+    {
+      "term": "cephal/cephalo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "head",
+      "usage_examples": ["cephalopod", "encephalitis", "cephalalgia"]
+    },
+    {
+      "term": "chem",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "chemical",
+      "usage_examples": ["chemistry", "chemical reaction", "chemist"]
+    },
+    {
+      "term": "chron",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "time",
+      "usage_examples": ["chronological", "chronometer", "synchronize"]
+    },
+    {
+      "term": "chrom",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "color",
+      "usage_examples": ["chromatography", "chromatic", "monochrome"]
+    },
+    {
+      "term": "chrys",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "gold",
+      "usage_examples": ["chrysanthemum", "chrysalis", "chrysoberyl"]
+    },
+    {
+      "term": "cil/i",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "hair, eyelash",
+      "usage_examples": ["ciliary", "cilioflex"]
+    },
+    {
+      "term": "circum",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "around",
+      "usage_examples": ["circumference", "circumnavigate", "circumscribe"]
+    },
+    {
+      "term": "clast",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "break, fragment",
+      "usage_examples": ["osteoclast", "odontoclast"]
+    },
+    {
+      "term": "coccus",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "berry (spherical cell)",
+      "usage_examples": ["diplococcus", "streptococcus"]
+    },
+    {
+      "term": "cole",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "sheath",
+      "usage_examples": ["coleoptile", "coleus"]
+    },
+    {
+      "term": "com/con",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "with, together",
+      "usage_examples": ["combine", "companion", "congress"]
+    },
+    {
+      "term": "corp",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "body",
+      "usage_examples": ["corporation", "corporeal", "corpuscle"]
+    },
+    {
+      "term": "cosmo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "order, world",
+      "usage_examples": ["cosmology", "microcosm"]
+    },
+    {
+      "term": "cryo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "cold",
+      "usage_examples": ["cryogenics", "cryotherapy", "cryosphere"]
+    },
+    {
+      "term": "crypt",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "hidden",
+      "usage_examples": ["cryptic", "cryptobiotic"]
+    },
+    {
+      "term": "curr/cur",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "run",
+      "usage_examples": ["current", "cursive", "curriculum"]
+    },
+    {
+      "term": "cyt",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "cell",
+      "usage_examples": ["cytology", "cytokinesis", "cytoplasm"]
+    },
+    {
+      "term": "dec/deca",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "ten",
+      "usage_examples": ["decade", "decagon", "decathlon"]
+    },
+    {
+      "term": "dem",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "people",
+      "usage_examples": ["democracy", "demographic"]
+    },
+    {
+      "term": "dent",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "tooth",
+      "usage_examples": ["dental", "dentition", "edentulous"]
+    },
+    {
+      "term": "derm",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "skin",
+      "usage_examples": ["dermatology", "epidermis", "dermatitis"]
+    },
+    {
+      "term": "dia",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "through, across",
+      "usage_examples": ["diameter", "diagonal", "diaphanous"]
+    },
+    {
+      "term": "dino",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "terrible",
+      "usage_examples": ["dinosaur", "dinoflagellate"]
+    },
+    {
+      "term": "dis",
+      "category": "root",
+      "origin": "Latin/Greek",
+      "meaning": "apart, not",
+      "usage_examples": ["dissection", "dissimilar", "disjoint"]
+    },
+    {
+      "term": "doc/doct",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "teach, learn, think",
+      "usage_examples": ["doctor", "doctrine", "educator"]
+    },
+    {
+      "term": "dors",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "back",
+      "usage_examples": ["dorsal", "dorsoventral"]
+    },
+    {
+      "term": "du/duo",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "two",
+      "usage_examples": ["dual", "duet", "duplicate"]
+    },
+    {
+      "term": "dys",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "bad, difficult",
+      "usage_examples": ["dysfunctional", "dystopia", "dyslexia"]
+    },
+    {
+      "term": "ecto",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "outside",
+      "usage_examples": ["ectoderm", "ectopic", "ectotherm"]
+    },
+    {
+      "term": "ego",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "self",
+      "usage_examples": ["egocentric", "egoism", "alter ego"]
+    },
+    {
+      "term": "endo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "within",
+      "usage_examples": ["endoplasmic", "endoskeleton", "endocrine"]
+    },
+    {
+      "term": "encephal",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "brain",
+      "usage_examples": ["encephalitis", "encephalopathy"]
+    },
+    {
+      "term": "enter",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "intestine",
+      "usage_examples": ["enteritis", "enteric", "enteral"]
+    },
+    {
+      "term": "epi",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "upon, over",
+      "usage_examples": ["epidermis", "epicenter", "epigenetics"]
+    },
+    {
+      "term": "eu",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "good, well",
+      "usage_examples": ["euphoria", "euthanasia", "eukaryote"]
+    },
+    {
+      "term": "ex/e",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "out of",
+      "usage_examples": ["exit", "excrete", "expand"]
+    },
+    {
+      "term": "extra",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "beyond",
+      "usage_examples": ["extraordinary", "extraterrestrial", "extract"]
+    },
+    {
+      "term": "fac/fact",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "do, make",
+      "usage_examples": ["factory", "manufacture", "artifact"]
+    },
+    {
+      "term": "falc",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "sickle",
+      "usage_examples": ["falciform", "falcate"]
+    },
+    {
+      "term": "fer",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "bear, carry",
+      "usage_examples": ["transfer", "fertile", "ferry"]
+    },
+    {
+      "term": "fibro",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "fiber",
+      "usage_examples": ["fibrous", "fibrosis", "fibroblast"]
+    },
+    {
+      "term": "flor",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "flower",
+      "usage_examples": ["floral", "flourish", "flora"]
+    },
+    {
+      "term": "form",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "shape",
+      "usage_examples": ["formation", "conform", "deform"]
+    },
+    {
+      "term": "gam/gamet",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "marriage, union; reproductive cell",
+      "usage_examples": ["gamete", "monogamy", "gametogenesis"]
+    },
+    {
+      "term": "gastr",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "stomach",
+      "usage_examples": ["gastritis", "gastrointestinal", "gastropod"]
+    },
+    {
+      "term": "gen/gene",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "birth, origin",
+      "usage_examples": ["gene", "genetics", "generation"]
+    },
+    {
+      "term": "geo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "earth",
+      "usage_examples": ["geology", "geography", "geocentric"]
+    },
+    {
+      "term": "ger/geri",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "old age",
+      "usage_examples": ["geriatric", "gerontology", "venerable"]
+    },
+    {
+      "term": "glaci",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "ice",
+      "usage_examples": ["glacier", "glacial", "periglacial"]
+    },
+    {
+      "term": "glyc",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "sweet",
+      "usage_examples": ["glycoside", "glycol", "glycogen"]
+    },
+    {
+      "term": "gram/graph",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "write, record",
+      "usage_examples": ["grammar", "graphic", "autograph"]
+    },
+    {
+      "term": "gran",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "grain",
+      "usage_examples": ["granule", "granite", "granary"]
+    },
+    {
+      "term": "gyn/gyno",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "woman, female",
+      "usage_examples": ["gynecology", "misogyny", "polygyne"]
+    },
+    {
+      "term": "hapl",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "single",
+      "usage_examples": ["haploid", "haplotype"]
+    },
+    {
+      "term": "hemo/haem/hem",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "blood",
+      "usage_examples": ["hemoglobin", "hemorrhage", "hematology"]
+    },
+    {
+      "term": "herp/herpet",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "creeping",
+      "usage_examples": ["herpetology", "herpetofauna"]
+    },
+    {
+      "term": "hetero",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "different",
+      "usage_examples": ["heterosexual", "heterogeneity", "heterozygous"]
+    },
+    {
+      "term": "homo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "same",
+      "usage_examples": ["homogeneous", "homologous", "homology"]
+    },
+    {
+      "term": "hydr",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "water",
+      "usage_examples": ["hydrate", "hydrology", "hydroelectric"]
+    },
+    {
+      "term": "hyper",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "over, excessive",
+      "usage_examples": ["hyperactive", "hypertension", "hypersensitive"]
+    },
+    {
+      "term": "hypo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "under, below",
+      "usage_examples": ["hypothermia", "hypodermic", "hypothesis"]
+    },
+    {
+      "term": "iatr/iatry",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "healing, medicine",
+      "usage_examples": ["psychiatry", "podiatry", "geriatrics"]
+    },
+    {
+      "term": "ichthy/o",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "fish",
+      "usage_examples": ["ichthyology", "ichthyosaur", "ichthyotoxic"]
+    },
+    {
+      "term": "ign",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "fire",
+      "usage_examples": ["ignite", "ignition", "incendiary"]
+    },
+  {
+    "term": "phon",
+    "category": "root",
+    "origin": "Greek",
+    "meaning": "sound",
+    "usage_examples": ["telephone", "phonetics", "cacophony"]
+  },
+  {
+    "term": "photo",
+    "category": "root",
+    "origin": "Greek",
+    "meaning": "light",
+    "usage_examples": ["photograph", "photosynthesis", "photon"]
+  },
+  {
+    "term": "scop",
+    "category": "root",
+    "origin": "Greek",
+    "meaning": "look, observe",
+    "usage_examples": ["periscope", "microscope"]
+  },
+  {
+    "term": "steat",
+    "category": "root",
+    "origin": "Greek",
+    "meaning": "fat",
+    "usage_examples": ["steatosis", "adipose tissue"]
+  },
+  {
+    "term": "steth/stetho",
+    "category": "root",
+    "origin": "Greek",
+    "meaning": "chest",
+    "usage_examples": ["stethoscope", "chest examination"]
+  },
+  {
+    "term": "sten/steno",
+    "category": "root",
+    "origin": "Greek",
+    "meaning": "narrow",
+    "usage_examples": ["stenography", "steno", "astenia"]
+  },
+  {
+    "term": "techn/techne",
+    "category": "root",
+    "origin": "Greek",
+    "meaning": "art, skill",
+    "usage_examples": ["technology", "technical", "technique"]
+  },
+  {
+    "term": "tele",
+    "category": "root",
+    "origin": "Greek",
+    "meaning": "far",
+    "usage_examples": ["telephone", "television", "telemedicine"]
+  },
+    {
+      "term": "medi",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "middle",
+      "usage_examples": ["median", "mediocre", "mediate"]
+    },
+    {
+      "term": "mega",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "large, great",
+      "usage_examples": ["megabyte", "megaphone", "megalith"]
+    },
+    {
+      "term": "mel/mell",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "honey",
+      "usage_examples": ["mellifluous", "mead", "melatonin"]
+    },
+    {
+      "term": "mem/memor",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "mind, memory",
+      "usage_examples": ["memoir", "memorize", "memorial"]
+    },
+    {
+      "term": "metr/metr(o)",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "measure",
+      "usage_examples": ["meter", "metric", "thermometer"]
+    },
+    {
+      "term": "migr",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "move",
+      "usage_examples": ["migrate", "migration", "migratory"]
+    },
+    {
+      "term": "mim/mime",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "imitate",
+      "usage_examples": ["mimic", "mime", "imitation"]
+    },
+    {
+      "term": "mit/mitto",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "send",
+      "usage_examples": ["transmit", "remit", "submission"]
+    },
+    {
+      "term": "mono",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "one, single",
+      "usage_examples": ["monologue", "monotone", "monoculture"]
+    },
+    {
+      "term": "morph",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "shape, form",
+      "usage_examples": ["morphology", "metamorphosis", "amorphous"]
+    },
+    {
+      "term": "mort",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "death",
+      "usage_examples": ["mortal", "mortuary", "mortality"]
+    },
+    {
+      "term": "myc/myco",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "fungus",
+      "usage_examples": ["mushroom", "mycology", "mycelium"]
+    },
+    {
+      "term": "myel",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "marrow",
+      "usage_examples": ["myeloma", "myelin", "bone marrow"]
+    },
+    {
+      "term": "odont",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "tooth",
+      "usage_examples": ["orthodontics", "odontology", "periodontal"]
+    },
+    {
+      "term": "olog/ology",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "study of",
+      "usage_examples": ["biology", "zoology", "psychology"]
+    },
+    {
+      "term": "omni",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "all",
+      "usage_examples": ["omnivorous", "omnipresent", "omniscient"]
+    },
+    {
+      "term": "onco",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "mass, tumor",
+      "usage_examples": ["oncology", "oncogene", "oncovirus"]
+    },
+    {
+      "term": "opac",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "shade, darkness",
+      "usage_examples": ["opaque", "opalescent"]
+    },
+    {
+      "term": "oper",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "work",
+      "usage_examples": ["operate", "opera", "operative"]
+    },
+    {
+      "term": "os/oss/oste",
+      "category": "root",
+      "origin": "Greek/Latin",
+      "meaning": "bone",
+      "usage_examples": ["osteoporosis", "osteology", "ossification"]
+    },
+    {
+      "term": "osm/osmo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "push, impulse",
+      "usage_examples": ["osmosis", "osmotic", "osmometer"]
+    },
+    {
+      "term": "ouran/ouran/o",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "sky, heaven",
+      "usage_examples": ["Uranus (planet)", "uranography"]
+    },
+    {
+      "term": "ov/ovi",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "egg",
+      "usage_examples": ["ovum", "oviparous", "ovulation"]
+    },
+    {
+      "term": "pan",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "all",
+      "usage_examples": ["pandemic", "panacea", "panorama"]
+    },
+    {
+      "term": "papill",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "nipple, small projection",
+      "usage_examples": ["papilloma", "papillary"]
+    },
+    {
+      "term": "papyr",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "paper",
+      "usage_examples": ["papyrus", "papermaking"]
+    },
+    {
+      "term": "para",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "beside, near; abnormal",
+      "usage_examples": ["parallel", "paramedic", "paranormal"]
+    },
+    {
+      "term": "pater",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "father",
+      "usage_examples": ["paternal", "paternity", "patriarch"]
+    },
+    {
+      "term": "path",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "feeling, disease",
+      "usage_examples": ["pathology", "empathy", "homeopathy"]
+    },
+    {
+      "term": "ped/pod",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "foot",
+      "usage_examples": ["pedal", "podiatry", "biped"]
+    },
+    {
+      "term": "pel/pell",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "drive, push",
+      "usage_examples": ["propel", "expel", "repulsion"]
+    },
+    {
+      "term": "pend/pens",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "hang",
+      "usage_examples": ["pendulum", "pendant", "suspense"]
+    },
+    {
+      "term": "per",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "through",
+      "usage_examples": ["permeate", "pervade", "persist"]
+    },
+    {
+      "term": "peri",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "around",
+      "usage_examples": ["perimeter", "periscope", "peripheral"]
+    },
+    {
+      "term": "phag/phago",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "eat",
+      "usage_examples": ["phagocyte", "macrophage", "autophagy"]
+    },
+    {
+      "term": "phas/phasis",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "appearance, show",
+      "usage_examples": ["phase", "phenomenon", "diaphanous"]
+    },
+    {
+      "term": "phen",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "show, appear",
+      "usage_examples": ["phenomenon", "phenotype"]
+    },
+    {
+      "term": "phil",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "love",
+      "usage_examples": ["philosophy", "philanthropist", "bibliophile"]
+    },
+    {
+      "term": "phob/phobia",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "fear",
+      "usage_examples": ["arachnophobia", "claustrophobia", "xenophobia"]
+    },
+    {
+      "term": "phylo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "tribe, race",
+      "usage_examples": ["phylogenetics", "sociophyly"]
+    },
+    {
+      "term": "phyto",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "plant",
+      "usage_examples": ["phytoplankton", "phytotherapy", "phytochemistry"]
+    },
+    {
+      "term": "plic/plex",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "fold",
+      "usage_examples": ["replicate", "complex", "simplex"]
+    },
+    {
+      "term": "pneum/pneumo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "lung, air",
+      "usage_examples": ["pneumonia", "pneumatic", "pneumothorax"]
+    },
+    {
+      "term": "podo/pod",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "foot",
+      "usage_examples": ["podiatrist", "tripod", "podiatry"]
+    },
+    {
+      "term": "poli",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "city",
+      "usage_examples": ["metropolis", "policy", "police"]
+    },
+    {
+      "term": "poly",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "many",
+      "usage_examples": ["polygon", "polytheism", "polymer"]
+    },
+    {
+      "term": "por/poro",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "passage, pore",
+      "usage_examples": ["porous", "porosity"]
+    },
+    {
+      "term": "port",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "carry",
+      "usage_examples": ["transport", "portable", "export"]
+    },
+    {
+      "term": "potent/pos",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "power",
+      "usage_examples": ["potent", "omnipotent", "potential"]
+    },
+    {
+      "term": "post",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "after",
+      "usage_examples": ["postmortem", "postscript", "postpone"]
+    },
+    {
+      "term": "prae/pre",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "before",
+      "usage_examples": ["preview", "prelude", "precede"]
+    },
+    {
+      "term": "prim",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "first",
+      "usage_examples": ["primary", "prime", "primitive"]
+    },
+    {
+      "term": "pro",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "forward, in favor of",
+      "usage_examples": ["progress", "promote", "proponent"]
+    },
+    {
+      "term": "pseudo",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "false",
+      "usage_examples": ["pseudoscience", "pseudonym", "pseudopod"]
+    },
+    {
+      "term": "psych",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "mind, soul",
+      "usage_examples": ["psychology", "psychiatrist", "psychosis"]
+    },
+    {
+      "term": "punct/point",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "dot, prick",
+      "usage_examples": ["punctuation", "puncture", "pinpoint"]
+    },
+    {
+      "term": "put/putr",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "rotten",
+      "usage_examples": ["putrid", "decay", "putrefy"]
+    },
+    {
+      "term": "quad",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "four",
+      "usage_examples": ["quadrant", "quadruped", "quadruple"]
+    },
+    {
+      "term": "quer/quest",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "seek, ask",
+      "usage_examples": ["query", "question", "quest"]
+    },
+    {
+      "term": "radic",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "root",
+      "usage_examples": ["radical", "radicle", "radicular"]
+    },
+    {
+      "term": "rect/recto",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "straight",
+      "usage_examples": ["rectangle", "correct", "erect"]
+    },
+    {
+      "term": "retro",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "backward",
+      "usage_examples": ["retrospect", "retrograde", "retrorocket"]
+    },
+    {
+      "term": "rhin/rhino",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "nose",
+      "usage_examples": ["rhinoplasty", "rhinovirus", "rhinitis"]
+    },
+    {
+      "term": "sacc",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "bag",
+      "usage_examples": ["saccule", "saccadic"]
+    },
+    {
+      "term": "sacro",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "sacred",
+      "usage_examples": ["sacrosanct", "sacrament"]
+    },
+    {
+      "term": "sal",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "salt",
+      "usage_examples": ["saline", "salinity"]
+    },
+    {
+      "term": "sanguin",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "blood",
+      "usage_examples": ["sanguine", "hemorrhage"]
+    },
+    {
+      "term": "san",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "healthy",
+      "usage_examples": ["sanity", "sanatorium", "sanitation"]
+    },
+    {
+      "term": "scint",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "sparkle",
+      "usage_examples": ["scintillate", "scintigraphy"]
+    },
+    {
+      "term": "scrib/script",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "write",
+      "usage_examples": ["scripture", "describe", "inscribe"]
+    },
+    {
+      "term": "sect",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "cut",
+      "usage_examples": ["dissect", "section", "bisect"]
+    },
+    {
+      "term": "semi",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "half",
+      "usage_examples": ["semicircle", "semiconscious", "semiannual"]
+    },
+    {
+      "term": "sens/sent",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "feel",
+      "usage_examples": ["sensory", "sentiment", "consent"]
+    },
+    {
+      "term": "sequ/sec",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "follow",
+      "usage_examples": ["sequence", "consecutive", "pursue"]
+    },
+    {
+      "term": "sigmoid",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "S-shaped",
+      "usage_examples": ["sigmoid colon", "sigmoid function"]
+    },
+    {
+      "term": "sol/solut",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "loosen, free",
+      "usage_examples": ["solution", "dissolve", "insoluble"]
+    },
+    {
+      "term": "somat/soma",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "body",
+      "usage_examples": ["somatic", "organism", "psychosomatic"]
+    },
+    {
+      "term": "soph",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "wisdom",
+      "usage_examples": ["sophisticated", "philosopher", "philosophy"]
+    },
+    {
+      "term": "spec/spect",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "look",
+      "usage_examples": ["inspect", "spectacle", "spectroscope"]
+    },
+    {
+      "term": "spir",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "breathe",
+      "usage_examples": ["respiration", "inspire", "respiratory"]
+    },
+    {
+      "term": "spong",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "porous",
+      "usage_examples": ["sponge", "spongy"]
+    },
+    {
+      "term": "squam",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "scale",
+      "usage_examples": ["squamous", "squamose", "squamate"]
+    },
+    {
+      "term": "stasis",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "standing, balance",
+      "usage_examples": ["homeostasis", "stasis", "static"]
+    },
+    {
+      "term": "strat/strato",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "layer",
+      "usage_examples": ["stratigraphy", "strata", "stratocumulus"]
+    },
+    {
+      "term": "sub",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "under",
+      "usage_examples": ["subterranean", "submerge", "subordinate"]
+    },
+    {
+      "term": "sum",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "together",
+      "usage_examples": ["summary", "summation", "assimilate"]
+    },
+    {
+      "term": "super",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "above",
+      "usage_examples": ["superior", "supernatural", "superimpose"]
+    },
+    {
+      "term": "sym/syn",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "together",
+      "usage_examples": ["symbiosis", "synchronize", "synonym"]
+    },
+    {
+      "term": "tact",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "touch",
+      "usage_examples": ["tactile", "contact", "intact"]
+    },
+    {
+      "term": "tax",
+      "category": "root",
+      "origin": "Greek",
+      "meaning": "order, arrangement",
+      "usage_examples": ["taxonomy", "taxidermy", "taxonomic"]
+    },
+    {
+      "term": "temp",
+      "category": "root",
+      "origin": "Latin",
+      "meaning": "time",
+      "usage_examples": ["temporary", "tempo", "contemporary"]
+    },
+        {
+          "term": "tend",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "stretch",
+          "usage_examples": ["extend", "tendril", "attention"]
+        },
+        {
+          "term": "term",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "end, boundary",
+          "usage_examples": ["terminal", "terminate", "perimeter"]
+        },
+        {
+          "term": "terr/terra",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "earth",
+          "usage_examples": ["terrain", "terrestrial", "territory"]
+        },
+        {
+          "term": "test",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "witness",
+          "usage_examples": ["testament", "testify", "testator"]
+        },
+        {
+          "term": "therm",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "heat",
+          "usage_examples": ["thermal", "thermostat", "thermodynamics"]
+        },
+        {
+          "term": "tox/toxic",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "poison",
+          "usage_examples": ["toxicology", "detoxify", "toxin"]
+        },
+        {
+          "term": "tract",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "pull, draw",
+          "usage_examples": ["attract", "tractor", "extract"]
+        },
+        {
+          "term": "trans",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "across",
+          "usage_examples": ["transport", "transcribe", "transcontinental"]
+        },
+        {
+          "term": "tri",
+          "category": "root",
+          "origin": "Greek/Latin",
+          "meaning": "three",
+          "usage_examples": ["triangle", "tricolor", "tricycle"]
+        },
+        {
+          "term": "tum/tumefac",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "swell",
+          "usage_examples": ["tumor", "tumescence", "tumult"]
+        },
+        {
+          "term": "vac/vacu",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "empty",
+          "usage_examples": ["vacuum", "evacuate", "vacate"]
+        },
+        {
+          "term": "veget",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "lively, grow",
+          "usage_examples": ["vegetation", "vegetative", "invigorate"]
+        },
+        {
+          "term": "ven/vent",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "come",
+          "usage_examples": ["venue", "advent", "convene"]
+        },
+        {
+          "term": "ver",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "truth",
+          "usage_examples": ["verify", "veracity", "veritable"]
+        },
+        {
+          "term": "vers/vert",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "turn",
+          "usage_examples": ["invert", "convert", "versatile"]
+        },
+        {
+          "term": "vest",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "clothe",
+          "usage_examples": ["vestment", "invest", "divest"]
+        },
+        {
+          "term": "vid/vis",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "see",
+          "usage_examples": ["visible", "video", "vision"]
+        },
+        {
+          "term": "viv",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "life",
+          "usage_examples": ["vital", "vivacious", "revive"]
+        },
+        {
+          "term": "voc/vok",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "call",
+          "usage_examples": ["vocal", "evoke", "vocation"]
+        },
+        {
+          "term": "volv/volut",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "roll, turn",
+          "usage_examples": ["revolve", "evolution", "convoluted"]
+        },
+        {
+          "term": "xen",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "foreign, strange",
+          "usage_examples": ["xenophobia", "xenobiotic"]
+        },
+        {
+          "term": "xer/xero",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "dry",
+          "usage_examples": ["xerophyte", "xerosis"]
+        },
+        {
+          "term": "zo/o",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "animal",
+          "usage_examples": ["zoology", "zookeeper", "zoomorphism"]
+        },
+        {
+          "term": "zyg/zygo",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "yoke, pair",
+          "usage_examples": ["zygote", "zygomorphic"]
+        },
+        {
+          "term": "acanth",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "spine, thorn",
+          "usage_examples": ["acanthosis", "acanthocyte", "acanthocephalan"]
+        },
+        {
+          "term": "acido",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "sour, acid",
+          "usage_examples": ["acid", "acidulate", "acidosis"]
+        },
+        {
+          "term": "acri",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "sharp, pungent",
+          "usage_examples": ["acrid", "acrimonious"]
+        },
+        {
+          "term": "adipo",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "fat",
+          "usage_examples": ["adipose", "adipocyte", "adiposity"]
+        },
+        {
+          "term": "agon",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "contest, struggle",
+          "usage_examples": ["agony", "antagonist", "agonist"]
+        },
+        {
+          "term": "albi",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "white",
+          "usage_examples": ["albino", "albinism", "albumen"]
+        },
+        {
+          "term": "album",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "white",
+          "usage_examples": ["albumin", "album"]
+        },
+        {
+          "term": "alveol",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "cavity, hollow",
+          "usage_examples": ["alveoli", "alveolar"]
+        },
+        {
+          "term": "amyl",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "starch",
+          "usage_examples": ["amylase", "amylum", "amyloplast"]
+        },
+        {
+          "term": "anem/anemo",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "wind",
+          "usage_examples": ["anemometer", "anemone"]
+        },
+        {
+          "term": "aniso",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "unequal",
+          "usage_examples": ["anisotropic", "anisosceles"]
+        },
+        {
+          "term": "arthr/arthro",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "joint",
+          "usage_examples": ["arthritis", "arthropod", "arthroscopy"]
+        },
+        {
+          "term": "bas/o",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "base, foundation",
+          "usage_examples": ["basis", "basal", "basement"]
+        },
+        {
+          "term": "bell",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "war",
+          "usage_examples": ["belligerent", "bellicose"]
+        },
+        {
+          "term": "calc",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "limestone, calcium",
+          "usage_examples": ["calcium", "calcify", "calcite"]
+        },
+        {
+          "term": "calor",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "heat",
+          "usage_examples": ["calorie", "caloric"]
+        },
+        {
+          "term": "capill",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "hair",
+          "usage_examples": ["capillary", "pilose"]
+        },
+        {
+          "term": "carin",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "keel, ridge",
+          "usage_examples": ["pyloric", "carina"]
+        },
+        {
+          "term": "cat",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "down, against",
+          "usage_examples": ["catastrophe", "catabolic", "catalysis"]
+        },
+        {
+          "term": "celer",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "swift",
+          "usage_examples": ["accelerate", "celerity", "deceleration"]
+        },
+        {
+          "term": "cent",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "hundred",
+          "usage_examples": ["century", "percent", "centennial"]
+        },
+        {
+          "term": "cept/ceive",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "take, seize",
+          "usage_examples": ["accept", "intercept", "conception"]
+        },
+        {
+          "term": "chitin",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "covering, protective substance",
+          "usage_examples": ["chitinous", "arthropod shell"]
+        },
+        {
+          "term": "cingul",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "belt, girdle",
+          "usage_examples": ["cingulate"]
+        },
+        {
+          "term": "chlor/chloro",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "green",
+          "usage_examples": ["chlorine", "chlorophyll", "chlorosis"]
+        },
+        {
+          "term": "coel/coeli",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "cavity, hollow",
+          "usage_examples": ["coelom", "coeliac"]
+        },
+        {
+          "term": "colp",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "hollow, vagina",
+          "usage_examples": ["colposcopy", "colpitis"]
+        },
+        {
+          "term": "dactyl",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "finger, digit",
+          "usage_examples": ["polydactyly", "dactyloscopy"]
+        },
+        {
+          "term": "echin/echino",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "spiny",
+          "usage_examples": ["echinoderm", "echinoid"]
+        },
+        {
+          "term": "entom",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "insect",
+          "usage_examples": ["entomology", "entomopathogenic"]
+        },
+        {
+          "term": "eury",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "broad",
+          "usage_examples": ["euryhaline", "eurythermal"]
+        },
+        {
+          "term": "fluv/fluvi",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "river",
+          "usage_examples": ["fluent", "fluctuation"]
+        },
+        {
+          "term": "foli/folio",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "leaf",
+          "usage_examples": ["foliage", "foliar"]
+        },
+        {
+          "term": "foss",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "ditch, pit",
+          "usage_examples": ["fossil", "fossa"]
+        },
+        {
+          "term": "frang/frag",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "break, shatter",
+          "usage_examples": ["fragment", "fragile", "fragmentation"]
+        },
+        {
+          "term": "fung/fungus",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "mushroom, fungus",
+          "usage_examples": ["fungicide", "fungal", "fungiform"]
+        },
+        {
+          "term": "helminth",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "worm",
+          "usage_examples": ["helminthiasis", "helminthology"]
+        },
+        {
+          "term": "herb",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "grass, plant",
+          "usage_examples": ["herbal", "herbaceous", "herbarium"]
+        },
+        {
+          "term": "hod/hod/o",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "path, road",
+          "usage_examples": ["periscope", "odometer"]
+        },
+        {
+          "term": "hypn",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "sleep",
+          "usage_examples": ["hypnosis", "hypnotic", "hypnagogic"]
+        },
+        {
+          "term": "lymph",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "watery, fluid",
+          "usage_examples": ["lymphatic", "lymphedema", "lymphocyte"]
+        },
+        {
+          "term": "magn",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "great, large",
+          "usage_examples": ["magnificent", "magnitude", "magnet"]
+        },
+        {
+          "term": "meta",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "change, beyond",
+          "usage_examples": ["metamorphosis", "metaphor", "metagenomics"]
+        },
+        {
+          "term": "moll",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "soft",
+          "usage_examples": ["mollusk", "mollify", "emollient"]
+        },
+        {
+          "term": "myrmec",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "ant",
+          "usage_examples": ["myrmecology", "myrmecophilous"]
+        },
+        {
+          "term": "nymph",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "young woman, minor deity",
+          "usage_examples": ["nymph", "nymphaeum"]
+        },
+        {
+          "term": "ops",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "eye, face",
+          "usage_examples": ["optical", "optometry", "opsin"]
+        },
+        {
+          "term": "osti",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "mouth, opening",
+          "usage_examples": ["ostium", "stomata"]
+        },
+        {
+          "term": "pancreat",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "all flesh (referring to the pancreas)",
+          "usage_examples": ["pancreatitis", "pancreatic", "pancreatectomy"]
+        },
+        {
+          "term": "parenchym",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "vital substance",
+          "usage_examples": ["parenchyma", "parenchymal tissue"]
+        },
+        {
+          "term": "phegma",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "plug, stopper",
+          "usage_examples": ["(rarely used standalone)"]
+        },
+        {
+          "term": "pilor",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "gate, entrance",
+          "usage_examples": ["pyloric", "pylorus"]
+        },
+        {
+          "term": "pleur",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "side",
+          "usage_examples": ["pleural", "bilateral pleura"]
+        },
+        {
+          "term": "pseud",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "false",
+          "usage_examples": ["pseudoscience", "pseudonym", "pseudopod"]
+        },
+        {
+          "term": "rhiz",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "root",
+          "usage_examples": ["rhizome", "rhizobia", "rhizosphere"]
+        },
+        {
+          "term": "scler/o",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "hard",
+          "usage_examples": ["sclerosis", "scleroderma", "osteosclerosis"]
+        },
+        {
+          "term": "sopor",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "deep sleep",
+          "usage_examples": ["soporific", "hypersomnia"]
+        },
+        {
+          "term": "stom",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "mouth",
+          "usage_examples": ["stomatitis", "stomatology"]
+        },
+        {
+          "term": "troph",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "nourishment",
+          "usage_examples": ["trophic", "autotrophic", "heterotrophic"]
+        },
+        {
+          "term": "venom",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "poison",
+          "usage_examples": ["venomous", "antivenom", "envenomation"]
+        },
+        {
+          "term": "vibr",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "move, shake",
+          "usage_examples": ["vibrate", "vibration", "vibrant"]
+        },
+        {
+          "term": "vit/viv",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "life",
+          "usage_examples": ["vitamin", "vital", "vivacity"]
+        },
+        {
+          "term": "zoo",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "animal",
+          "usage_examples": ["zoology", "zookeeper", "zoomorphism"]
+        },
+        {
+          "term": "anabol",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "build up",
+          "usage_examples": ["anabolism", "anabolic"]
+        },
+        {
+          "term": "catabol",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "break down",
+          "usage_examples": ["catabolism", "catabolic", "metabolism"]
+        },
+        {
+          "term": "cytogen",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "cell origin",
+          "usage_examples": ["cytogenetics", "cytogenesis"]
+        },
+        {
+          "term": "hemato",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "blood",
+          "usage_examples": ["hematology", "hemoglobin", "hematopoietic"]
+        },
+        {
+          "term": "osteogen",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "bone formation",
+          "usage_examples": ["osteogenesis", "osteogenic", "osteoblast"]
+        },
+        {
+          "term": "myeloid",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "marrow-like",
+          "usage_examples": ["myelogenous", "myeloblast", "myeloid leukemia"]
+        },
+        {
+          "term": "nephro",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "kidney",
+          "usage_examples": ["nephrology", "nephrectomy", "nephritic"]
+        },
+        {
+          "term": "enteron",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "intestine",
+          "usage_examples": ["enteron", "enteric", "enteropathy"]
+        },
+        {
+          "term": "splen",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "spleen",
+          "usage_examples": ["splenomegaly", "splenic"]
+        },
+        {
+          "term": "tonsill",
+          "category": "root",
+          "origin": "Latin",
+          "meaning": "tonsil",
+          "usage_examples": ["tonsillitis", "tonsillectomy"]
+        },
+        {
+          "term": "laryng",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "throat",
+          "usage_examples": ["laryngitis", "laryngeal", "laryngoscopy"]
+        },
+        {
+          "term": "trache/o",
+          "category": "root",
+          "origin": "Greek",
+          "meaning": "rough; windpipe",
+          "usage_examples": ["trachea", "tracheotomy", "tracheitis"]
+        },
+            {
+              "term": "a‑/an‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "without, not",
+              "usage_examples": ["anhydrous", "anemia", "anesthetic"]
+            },
+            {
+              "term": "ab‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "away from",
+              "usage_examples": ["abduct", "abnormal", "aberrant"]
+            },
+            {
+              "term": "ad‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "to, toward",
+              "usage_examples": ["adapt", "adhere", "adjoin"]
+            },
+            {
+              "term": "ambi‑/amphi‑",
+              "category": "prefix",
+              "origin": "Latin/Greek",
+              "meaning": "both, on both sides",
+              "usage_examples": ["ambidextrous", "amphibic", "amphitheater"]
+            },
+            {
+              "term": "ante‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "before",
+              "usage_examples": ["antecedent", "antedate", "anteroom"]
+            },
+            {
+              "term": "anti‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "against, opposite",
+              "usage_examples": ["antibiotic", "antidote", "antiviral"]
+            },
+            {
+              "term": "apo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "away from, separate",
+              "usage_examples": ["apoptosis", "apogee", "apolysis"]
+            },
+            {
+              "term": "arch‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "chief, principal",
+              "usage_examples": ["archangel", "archrival", "archduke"]
+            },
+            {
+              "term": "auto‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "self",
+              "usage_examples": ["autograph", "autonomous", "autoimmune"]
+            },
+            {
+              "term": "be‑",
+              "category": "prefix",
+              "origin": "Old English/Latin",
+              "meaning": "around, intensifier",
+              "usage_examples": ["befriend", "behold"]
+            },
+            {
+              "term": "bi‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "two",
+              "usage_examples": ["bilateral", "bicycle", "biannual"]
+            },
+            {
+              "term": "bin‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "two",
+              "usage_examples": ["binary", "binomial"]
+            },
+            {
+              "term": "circum‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "around",
+              "usage_examples": ["circumnavigate", "circumference", "circumstantial"]
+            },
+            {
+              "term": "co‑/com‑/con‑/col‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "with, together",
+              "usage_examples": ["coexist", "combine", "connect", "collaborate"]
+            },
+            {
+              "term": "contra‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "against",
+              "usage_examples": ["contradict", "contraband", "contradictory"]
+            },
+            {
+              "term": "de‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "down, remove",
+              "usage_examples": ["decompose", "deactivate", "degrade"]
+            },
+            {
+              "term": "demi‑",
+              "category": "prefix",
+              "origin": "French/Latin",
+              "meaning": "half",
+              "usage_examples": ["demigod", "demitasse"]
+            },
+            {
+              "term": "dia‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "through, across",
+              "usage_examples": ["diameter", "dialogue", "diaphanous"]
+            },
+            {
+              "term": "dis‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "apart, not",
+              "usage_examples": ["disconnect", "disorder", "disassemble"]
+            },
+            {
+              "term": "dys‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "bad, difficult",
+              "usage_examples": ["dysfunctional", "dyslexia", "dysphoria"]
+            },
+            {
+              "term": "ec‑/ex‑",
+              "category": "prefix",
+              "origin": "Greek/Latin",
+              "meaning": "out of, from",
+              "usage_examples": ["exhale", "extract", "exoskeleton"]
+            },
+            {
+              "term": "ecto‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "outside",
+              "usage_examples": ["ectoderm", "ectotherm", "ectosite"]
+            },
+            {
+              "term": "em‑/en‑",
+              "category": "prefix",
+              "origin": "Greek/Latin",
+              "meaning": "in, into",
+              "usage_examples": ["embed", "enclose", "empower"]
+            },
+            {
+              "term": "epi‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "upon, over",
+              "usage_examples": ["epidermis", "epicenter", "epigenetics"]
+            },
+            {
+              "term": "eu‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "good, well",
+              "usage_examples": ["euphoria", "eukaryote", "euonym"]
+            },
+            {
+              "term": "ex‑/extra‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "out of, beyond",
+              "usage_examples": ["extract", "extraterrestrial", "exit"]
+            },
+            {
+              "term": "fore‑",
+              "category": "prefix",
+              "origin": "Old English/Latin",
+              "meaning": "before",
+              "usage_examples": ["forewarn", "forecast", "foresee"]
+            },
+            {
+              "term": "hemi‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "half",
+              "usage_examples": ["hemisphere", "hemiparasitic"]
+            },
+            {
+              "term": "hetero‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "different",
+              "usage_examples": ["heterogeneous", "heterosexual", "heterodox"]
+            },
+            {
+              "term": "homo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "same",
+              "usage_examples": ["homogeneous", "homologous", "homosapien"]
+            },
+            {
+              "term": "hyper‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "over, above",
+              "usage_examples": ["hyperactive", "hypertension", "hyperthermia"]
+            },
+            {
+              "term": "hypo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "under, below",
+              "usage_examples": ["hypodermic", "hypothesis", "hypoactive"]
+            },
+            {
+              "term": "il‑/im‑/in‑/ir‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "not, into",
+              "usage_examples": ["illegal", "impossible", "inactive", "irregular"]
+            },
+            {
+              "term": "inter‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "between, among",
+              "usage_examples": ["international", "intercellular", "interspecies"]
+            },
+            {
+              "term": "intra‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "within",
+              "usage_examples": ["intracellular", "intramural", "intravenous"]
+            },
+            {
+              "term": "iso‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "equal, same",
+              "usage_examples": ["isomer", "isothermal", "isobar"]
+            },
+            {
+              "term": "macro‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "large",
+              "usage_examples": ["macrobiotic", "macrocosm", "macromolecule"]
+            },
+            {
+              "term": "mal‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "bad, poor",
+              "usage_examples": ["malfunction", "malnutrition", "malady"]
+            },
+            {
+              "term": "mega‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "great, large",
+              "usage_examples": ["megabyte", "megalith", "megaphone"]
+            },
+            {
+              "term": "meta‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "beyond, change",
+              "usage_examples": ["metamorphosis", "metaphysics", "metabolism"]
+            },
+            {
+              "term": "micro‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "small",
+              "usage_examples": ["microscope", "microorganism", "microchip"]
+            },
+            {
+              "term": "milli‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "one-thousandth",
+              "usage_examples": ["millimeter", "milliliter", "millisecond"]
+            },
+            {
+              "term": "mini‑",
+              "category": "prefix",
+              "origin": "English/Latin",
+              "meaning": "small",
+              "usage_examples": ["miniature", "miniskirt", "minimize"]
+            },
+            {
+              "term": "mis‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "wrong, badly",
+              "usage_examples": ["misinterpret", "misconduct", "misalign"]
+            },
+            {
+              "term": "mono‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "one, single",
+              "usage_examples": ["monochrome", "monotonic", "monoculture"]
+            },
+            {
+              "term": "multi‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "many",
+              "usage_examples": ["multicellular", "multitask", "multimedia"]
+            },
+            {
+              "term": "neo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "new",
+              "usage_examples": ["neonatal", "neologic", "neoplasm"]
+            },
+            {
+              "term": "non‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "not",
+              "usage_examples": ["nontoxic", "nonessential", "nonlinear"]
+            },
+            {
+              "term": "ob‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "against, toward",
+              "usage_examples": ["obstruct", "observe", "oblige"]
+            },
+            {
+              "term": "oct‑/octo‑",
+              "category": "prefix",
+              "origin": "Greek/Latin",
+              "meaning": "eight",
+              "usage_examples": ["octahedron", "octopod", "octa"]
+            },
+            {
+              "term": "omni‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "all",
+              "usage_examples": ["omnipresent", "omnipotent", "omnivore"]
+            },
+            {
+              "term": "out‑",
+              "category": "prefix",
+              "origin": "English",
+              "meaning": "surpassing, external",
+              "usage_examples": ["outperform", "outnumber", "outgrow"]
+            },
+            {
+              "term": "over‑",
+              "category": "prefix",
+              "origin": "English",
+              "meaning": "above, excessive",
+              "usage_examples": ["overeat", "overestimate", "overload"]
+            },
+            {
+              "term": "para‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "beside, abnormal",
+              "usage_examples": ["parallel", "paradigm", "paramedical"]
+            },
+            {
+              "term": "peri‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "around",
+              "usage_examples": ["perimeter", "pericardium", "periscope"]
+            },
+            {
+              "term": "poly‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "many",
+              "usage_examples": ["polymer", "polytheism", "polyculture"]
+            },
+            {
+              "term": "post‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "after",
+              "usage_examples": ["postmortem", "postscript", "postnatal"]
+            },
+            {
+              "term": "pre‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "before",
+              "usage_examples": ["preview", "prenatal", "prescribe"]
+            },
+            {
+              "term": "holo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "whole, complete",
+              "usage_examples": ["holoblastic", "holoplankton"]
+            },
+            {
+              "term": "pro‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "forward, in favor of",
+              "usage_examples": ["proceed", "proactive", "pronoun"]
+            },
+            {
+              "term": "re‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "again, back",
+              "usage_examples": ["rewrite", "return", "recycle"]
+            },
+            {
+              "term": "retro‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "backward",
+              "usage_examples": ["retrograde", "retrospective", "retrofit"]
+            },
+            {
+              "term": "semi‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "half",
+              "usage_examples": ["semicircle", "semiannual", "semiconductor"]
+            },
+            {
+              "term": "sub‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "under, below",
+              "usage_examples": ["submarine", "subcutaneous", "suboptimal"]
+            },
+            {
+              "term": "sur‑/super‑",
+              "category": "prefix",
+              "origin": "Latin/Greek",
+              "meaning": "above, beyond",
+              "usage_examples": ["superimpose", "supernatural", "surplus"]
+            },
+            {
+              "term": "syn‑/sym‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "with, together",
+              "usage_examples": ["synergy", "symmetry", "synapse"]
+            },
+            {
+              "term": "tele‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "far",
+              "usage_examples": ["telephone", "television", "telemetry"]
+            },
+            {
+              "term": "trans‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "across",
+              "usage_examples": ["transport", "transcribe", "transcontinental"]
+            },
+            {
+              "term": "tri‑",
+              "category": "prefix",
+              "origin": "Greek/Latin",
+              "meaning": "three",
+              "usage_examples": ["triangle", "tricycle", "trilingual"]
+            },
+            {
+              "term": "ultra‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "beyond, excessive",
+              "usage_examples": ["ultraviolet", "ultramodern", "ultrasensitive"]
+            },
+            {
+              "term": "un‑",
+              "category": "prefix",
+              "origin": "Latin/English",
+              "meaning": "not",
+              "usage_examples": ["unusual", "uncertain", "unhealthy"]
+            },
+            {
+              "term": "uni‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "one",
+              "usage_examples": ["unicycle", "uniform", "unisexual"]
+            },
+            {
+              "term": "up‑",
+              "category": "prefix",
+              "origin": "English",
+              "meaning": "upward",
+              "usage_examples": ["upgrade", "uplift", "uproot"]
+            },
+            {
+              "term": "counter‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "against, opposite",
+              "usage_examples": ["counteract", "counterclockwise", "counterpart"]
+            },
+            {
+              "term": "cata‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "down, completely",
+              "usage_examples": ["catastrophe", "catabolic", "catachresis"]
+            },
+            {
+              "term": "ambi‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "both, around",
+              "usage_examples": ["ambidextrous", "ambiguous"]
+            },
+            {
+              "term": "archi‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "chief, principal",
+              "usage_examples": ["architect", "archetype"]
+            },
+            {
+              "term": "bene‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "good, well",
+              "usage_examples": ["benefact", "benevolence", "benefit"]
+            },
+            {
+              "term": "bio‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "life",
+              "usage_examples": ["biology", "biosphere", "biotech"]
+            },
+            {
+              "term": "chrono‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "time",
+              "usage_examples": ["chronometer", "chronology", "chronotype"]
+            },
+            {
+              "term": "clado‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "branch",
+              "usage_examples": ["claudotomy", "cladogenic"]
+            },
+            {
+              "term": "cryo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "cold",
+              "usage_examples": ["cryotherapy", "cryogenics", "cryosphere"]
+            },
+            {
+              "term": "dermato‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "skin",
+              "usage_examples": ["dermatology", "dermatoitis"]
+            },
+            {
+              "term": "ento‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "insect (or within)",
+              "usage_examples": ["entomology", "entophagous"]
+            },
+            {
+              "term": "gyno‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "woman, female",
+              "usage_examples": ["gynecology", "gynodiversity"]
+            },
+            {
+              "term": "leuko‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "white",
+              "usage_examples": ["leukocyst", "leukocyte", "leukomia"]
+            },
+            {
+              "term": "lipo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "fat, lipid",
+              "usage_examples": ["lipolysis", "lipoprotein", "lipodystrophy"]
+            },
+            {
+              "term": "meso‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "middle",
+              "usage_examples": ["mesoderm", "mesosphere"]
+            },
+            {
+              "term": "myo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "muscle",
+              "usage_examples": ["myositis", "myoglobin", "myopathy"]
+            },
+            {
+              "term": "necro‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "death",
+              "usage_examples": ["necrosis", "necroman", "necrophilia"]
+            },
+            {
+              "term": "neur‑/neuro‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "nerve",
+              "usage_examples": ["neurology", "neuron", "neurotransmitter"]
+            },
+            {
+              "term": "ortho‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "straight, correct",
+              "usage_examples": ["orthodontics", "orthopedic", "orthograph"]
+            },
+            {
+              "term": "paleo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "ancient, old",
+              "usage_examples": ["paleontology", "paleodiet"]
+            },
+            {
+              "term": "patho‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "disease",
+              "usage_examples": ["pathogen", "pathologic", "pathophysiology"]
+            },
+            {
+              "term": "phago‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "eat",
+              "usage_examples": ["phagocyte", "phagotrophy"]
+            },
+            {
+              "term": "phono‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "sound",
+              "usage_examples": ["phonograph", "phonometry"]
+            },
+            {
+              "term": "photo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "light",
+              "usage_examples": ["photosynthesis", "photograph", "photoreceptor"]
+            },
+            {
+              "term": "proto‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "first, primary",
+              "usage_examples": ["prototype", "protozoa", "protocell"]
+            },
+            {
+              "term": "scop‑/scope‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "to look, observe",
+              "usage_examples": ["scope (as in microscope, telescope)"]
+            },
+            {
+              "term": "sept‑",
+              "category": "prefix",
+              "origin": "Latin",
+              "meaning": "seven",
+              "usage_examples": ["septennial", "septuplet"]
+            },
+            {
+              "term": "tachy‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "fast",
+              "usage_examples": ["tachycardia", "tachymeter"]
+            },
+            {
+              "term": "thermo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "heat",
+              "usage_examples": ["thermometer", "thermodynamics"]
+            },
+            {
+              "term": "tox‑/toxo‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "poison",
+              "usage_examples": ["toxology", "toxoin"]
+            },
+            {
+              "term": "trich‑/tricho‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "hair",
+              "usage_examples": ["trichology", "trichometer"]
+            },
+            {
+              "term": "thalasso‑",
+              "category": "prefix",
+              "origin": "Greek",
+              "meaning": "sea",
+              "usage_examples": ["thalassotherapy", "thalassocracy"]
+            },
+          
+              {
+                "term": "-ology",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "study of",
+                "usage_examples": ["biology", "zoology", "ecology"]
+              },
+              {
+                "term": "-graphy",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "process of recording or describing",
+                "usage_examples": ["photography", "cartography", "biography"]
+              },
+              {
+                "term": "-metry",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "measurement",
+                "usage_examples": ["geometry", "spirometry", "barometry"]
+              },
+              {
+                "term": "-phobia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "fear of",
+                "usage_examples": ["arachnophobia", "claustrophobia", "xenophobia"]
+              },
+              {
+                "term": "-philia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "love or affinity for",
+                "usage_examples": ["bibliophilia", "hydrophilia", "anglophilia"]
+              },
+              {
+                "term": "-phile",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "one who loves or has an affinity for",
+                "usage_examples": ["Anglophile", "audiophile", "technophile"]
+              },
+              {
+                "term": "-ism",
+                "category": "suffix",
+                "origin": "Greek/Latin",
+                "meaning": "doctrine, practice, or condition",
+                "usage_examples": ["realism", "capitalism", "organism"]
+              },
+              {
+                "term": "-ist",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "one who practices or is concerned with",
+                "usage_examples": ["biologist", "chemist", "pianist"]
+              },
+              {
+                "term": "-ectomy",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "surgical removal",
+                "usage_examples": ["appendectomy", "tonsillectomy", "hysterectomy"]
+              },
+              {
+                "term": "-itis",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "inflammation",
+                "usage_examples": ["arthritis", "bronchitis", "dermatitis"]
+              },
+              {
+                "term": "-osis",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "condition or process",
+                "usage_examples": ["psychosis", "cirrhosis", "osmosis"]
+              },
+              {
+                "term": "-emia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "blood condition",
+                "usage_examples": ["anemia", "leukemia", "hyperemia"]
+              },
+              {
+                "term": "-pathy",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "disease or suffering",
+                "usage_examples": ["neuropathy", "homeopathy", "osteopathy"]
+              },
+              {
+                "term": "-genic",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "produced by, causing",
+                "usage_examples": ["pathogenic", "carcinogenic", "photogenic"]
+              },
+              {
+                "term": "-tomy",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "cutting, incision",
+                "usage_examples": ["lobotomy", "tracheotomy", "gastrotomy"]
+              },
+              {
+                "term": "-plasty",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "surgical repair or reconstruction",
+                "usage_examples": ["rhinoplasty", "angioplasty", "mammoplasty"]
+              },
+              {
+                "term": "-scopy",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "visual examination",
+                "usage_examples": ["endoscopy", "colonoscopy", "microscopy"]
+              },
+              {
+                "term": "-scope",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "instrument for viewing",
+                "usage_examples": ["telescope", "stethoscope", "periscope"]
+              },
+              {
+                "term": "-logist",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "one who studies",
+                "usage_examples": ["biologist", "geologist", "psychologist"]
+              },
+              {
+                "term": "-meter",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "instrument for measuring",
+                "usage_examples": ["thermometer", "speedometer", "odometer"]
+              },
+              {
+                "term": "-uria",
+                "category": "suffix",
+                "origin": "Greek/Latin",
+                "meaning": "condition of the urine",
+                "usage_examples": ["polyuria", "hematuria", "albuminuria"]
+              },
+              {
+                "term": "-lysis",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "breakdown, decomposition",
+                "usage_examples": ["hydrolysis", "dialysis", "cytolysis"]
+              },
+              {
+                "term": "-graph",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "something written or recorded",
+                "usage_examples": ["autograph", "telegraph", "monograph"]
+              },
+              {
+                "term": "-cycle",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "circle, wheel",
+                "usage_examples": ["bicycle", "recycle", "lifecycle"]
+              },
+              {
+                "term": "-phyte",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "plant",
+                "usage_examples": ["xerophyte", "hydrophyte", "epiphyte"]
+              },
+              {
+                "term": "-oid",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "resembling, like",
+                "usage_examples": ["humanoid", "asteroid", "thyroid"]
+              },
+              {
+                "term": "-cyte",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "cell",
+                "usage_examples": ["leukocyte", "erythrocyte", "osteocyte"]
+              },
+              {
+                "term": "-oma",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "tumor, mass",
+                "usage_examples": ["carcinoma", "lymphoma", "melanoma"]
+              },
+              {
+                "term": "-megaly",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "enlargement",
+                "usage_examples": ["hepatomegaly", "splenomegaly", "cardiomegaly"]
+              },
+              {
+                "term": "-penia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "deficiency",
+                "usage_examples": ["leukopenia", "osteopenia", "anemia"]
+              },
+              {
+                "term": "-rrhea",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "flow or discharge",
+                "usage_examples": ["diarrhea", "amenorrhea", "rhinorrhea"]
+              },
+              {
+                "term": "-stasis",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "standing, equilibrium",
+                "usage_examples": ["homeostasis", "hemostasis", "stasis"]
+              },
+              {
+                "term": "-trophy",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "nourishment, development",
+                "usage_examples": ["hypertrophy", "atrophy", "dystrophy"]
+              },
+              {
+                "term": "-cele",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "hernia, swelling",
+                "usage_examples": ["meningocele", "hydrocele", "cystocele"]
+              },
+              {
+                "term": "-algia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "pain",
+                "usage_examples": ["neuralgia", "myalgia", "arthralgia"]
+              },
+              {
+                "term": "-dynia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "pain",
+                "usage_examples": ["cephalodynia", "lumbodynia"]
+              },
+              {
+                "term": "-plegia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "paralysis",
+                "usage_examples": ["paraplegia", "hemiplegia", "quadriplegia"]
+              },
+              {
+                "term": "-spasm",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "convulsion, contraction",
+                "usage_examples": ["bronchospasm", "vasospasm"]
+              },
+              {
+                "term": "-phagia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "eating, swallowing",
+                "usage_examples": ["dysphagia", "polyphagia"]
+              },
+              {
+                "term": "-spore",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "seed",
+                "usage_examples": ["gymnosporous", "angiosperm"]
+              },
+              {
+                "term": "-ase",
+                "category": "suffix",
+                "origin": "Greek/Latin",
+                "meaning": "enzyme",
+                "usage_examples": ["lactase", "polymerase", "oxidase"]
+              },
+              {
+                "term": "-in",
+                "category": "suffix",
+                "origin": "Latin",
+                "meaning": "pertaining to a chemical compound (often proteins)",
+                "usage_examples": ["insulin", "actin"]
+              },
+              {
+                "term": "-ation",
+                "category": "suffix",
+                "origin": "Latin",
+                "meaning": "action, process",
+                "usage_examples": ["respiration", "coagulation", "mutation"]
+              },
+              {
+                "term": "-ment",
+                "category": "suffix",
+                "origin": "Latin",
+                "meaning": "result or means",
+                "usage_examples": ["development", "nourishment", "alignment"]
+              },
+              {
+                "term": "-sis",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "process or condition",
+                "usage_examples": ["mitosis", "meiosis", "analysis"]
+              },
+              {
+                "term": "-cytic",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "pertaining to cells",
+                "usage_examples": ["lymphocytic", "hepatocytic"]
+              },
+              {
+                "term": "-sclerosis",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "hardening",
+                "usage_examples": ["arteriosclerosis", "multiple sclerosis"]
+              },
+              {
+                "term": "-plasia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "formation, development",
+                "usage_examples": ["hyperplasia", "dysplasia", "neoplasia"]
+              },
+              {
+                "term": "-plasm",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "substance, formation",
+                "usage_examples": ["cytoplasm", "protoplasm", "plasmid"]
+              },
+              {
+                "term": "-phyll",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "leaf",
+                "usage_examples": ["chlorophyll", "phyllotaxis"]
+              },
+              {
+                "term": "-rrhagia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "excessive flow",
+                "usage_examples": ["menorrhagia", "hemorrhagia"]
+              },
+              {
+                "term": "-gram",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "something written or recorded",
+                "usage_examples": ["diagram", "telegram", "phonogram"]
+              },
+              {
+                "term": "-esthesia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "sensation",
+                "usage_examples": ["anesthesia", "aesthesia"]
+              },
+              {
+                "term": "-archy",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "rule, government",
+                "usage_examples": ["monarchy", "oligarchy", "hierarchy"]
+              },
+              {
+                "term": "-cracy",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "form of government",
+                "usage_examples": ["democracy", "theocracy", "bureaucracy"]
+              },
+              {
+                "term": "-genesis",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "origin, formation",
+                "usage_examples": ["biogenesis", "pathogenesis", "genesis"]
+              },
+              {
+                "term": "-spermia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "condition of sperm",
+                "usage_examples": ["azoospermia", "oligospermia"]
+              },
+              {
+                "term": "-lalia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "speech",
+                "usage_examples": ["echolalia", "hyperlalia"]
+              },
+              {
+                "term": "-phonia",
+                "category": "suffix",
+                "origin": "Greek",
+                "meaning": "sound",
+                "usage_examples": ["cacophonia", "euphonia"]
+              },
+              
+                {
+                  "term": "-phoresis",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "process of carrying",
+                  "usage_examples": ["electrophoresis", "chemiosmosis"]
+                },
+                {
+                  "term": "-phily",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "affinity for",
+                  "usage_examples": ["hydrophily", "xerophily"]
+                },
+                {
+                  "term": "-ive",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "having the nature of",
+                  "usage_examples": ["active", "creative", "expansive"]
+                },
+                {
+                  "term": "-al",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "pertaining to",
+                  "usage_examples": ["biological", "regional", "neural"]
+                },
+                {
+                  "term": "-ic",
+                  "category": "suffix",
+                  "origin": "Greek/Latin",
+                  "meaning": "pertaining to",
+                  "usage_examples": ["organic", "genetic", "pathogenic"]
+                },
+                {
+                  "term": "-ous",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "having the quality of",
+                  "usage_examples": ["porous", "continuous", "hazardous"]
+                },
+                {
+                  "term": "-let",
+                  "category": "suffix",
+                  "origin": "French/Latin",
+                  "meaning": "diminutive",
+                  "usage_examples": ["booklet", "droplet"]
+                },
+                {
+                  "term": "-ling",
+                  "category": "suffix",
+                  "origin": "Old English",
+                  "meaning": "small or young",
+                  "usage_examples": ["duckling", "gosling"]
+                },
+                {
+                  "term": "-ette",
+                  "category": "suffix",
+                  "origin": "French",
+                  "meaning": "diminutive",
+                  "usage_examples": ["kitchenette", "cigarette"]
+                },
+                {
+                  "term": "-fold",
+                  "category": "suffix",
+                  "origin": "Old English",
+                  "meaning": "times, multiplied by",
+                  "usage_examples": ["twofold", "manifold"]
+                },
+                {
+                  "term": "-ward/-wards",
+                  "category": "suffix",
+                  "origin": "Old English",
+                  "meaning": "in the direction of",
+                  "usage_examples": ["forward", "homeward", "eastward"]
+                },
+                {
+                  "term": "-wise",
+                  "category": "suffix",
+                  "origin": "Old English",
+                  "meaning": "in relation to, manner",
+                  "usage_examples": ["clockwise", "lengthwise"]
+                },
+                {
+                  "term": "-like",
+                  "category": "suffix",
+                  "origin": "English",
+                  "meaning": "resembling",
+                  "usage_examples": ["childlike", "manlike", "lifelike"]
+                },
+                {
+                  "term": "-escent",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "becoming, beginning to be",
+                  "usage_examples": ["incandescent", "effervescent"]
+                },
+                {
+                  "term": "-escence",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "process of becoming",
+                  "usage_examples": ["adolescence", "luminescence"]
+                },
+                {
+                  "term": "-nomy",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "system of rules or knowledge",
+                  "usage_examples": ["taxonomy", "economy", "astronomy"]
+                },
+                {
+                  "term": "-ostomy",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "creation of an opening",
+                  "usage_examples": ["colostomy", "ileostomy"]
+                },
+                {
+                  "term": "-stomy",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "formation of an opening",
+                  "usage_examples": ["gastrostomy", "cystostomy"]
+                },
+                {
+                  "term": "-rrhaphy",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "surgical suturing",
+                  "usage_examples": ["neurorrhaphy", "tenorrhaphy"]
+                },
+                {
+                  "term": "-morphic",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "shape or form",
+                  "usage_examples": ["polymorphic", "isomorphic"]
+                },
+                {
+                  "term": "-phoria",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "state or condition (often of mood)",
+                  "usage_examples": ["euphoria", "dysphoria"]
+                },
+                {
+                  "term": "-vore",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "eater",
+                  "usage_examples": ["carnivore", "herbivore", "omnivore"]
+                },
+                {
+                  "term": "-cide",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "killer, act of killing",
+                  "usage_examples": ["pesticide", "homicide", "bactericide"]
+                },
+                {
+                  "term": "-phagous",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "feeding on",
+                  "usage_examples": ["xylophagous", "coprophagous"]
+                },
+                {
+                  "term": "-philous",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "having an affinity for",
+                  "usage_examples": ["oleophilous", "hydrophilous"]
+                },
+                {
+                  "term": "-sperm",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "seed, sperm",
+                  "usage_examples": ["microsperm", "zoosperm"]
+                },
+                {
+                  "term": "-coccus",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "berry (spherical bacterium)",
+                  "usage_examples": ["streptococcus", "diplococcus"]
+                },
+                {
+                  "term": "-bacillus",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "rod (shape)",
+                  "usage_examples": ["Bacillus anthracis"]
+                },
+                {
+                  "term": "-phyceae",
+                  "category": "suffix",
+                  "origin": "Greek/Latin",
+                  "meaning": "group of algae",
+                  "usage_examples": ["Chlorophyceae", "Bacillariophyceae"]
+                },
+                {
+                  "term": "-mycetes",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "fungus (taxonomic group)",
+                  "usage_examples": ["Ascomycetes", "Basidiomycetes"]
+                },
+                {
+                  "term": "-cete",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "whale (taxonomic group)",
+                  "usage_examples": ["Cetacea", "mysticete"]
+                },
+                {
+                  "term": "-aceae",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "family (plants)",
+                  "usage_examples": ["Rosaceae", "Fabaceae"]
+                },
+                {
+                  "term": "-idae",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "family (animals)",
+                  "usage_examples": ["Felidae", "Canidae"]
+                },
+                {
+                  "term": "-inae",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "subfamily",
+                  "usage_examples": ["Bovinae", "Ruminantia"]
+                },
+                {
+                  "term": "-porous",
+                  "category": "suffix",
+                  "origin": "Latin/Greek",
+                  "meaning": "having pores",
+                  "usage_examples": ["microporous", "semiporous"]
+                },
+                {
+                  "term": "-some",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "body, collection",
+                  "usage_examples": ["chromosome", "ribosome", "liposome"]
+                },
+                {
+                  "term": "-zyme",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "enzyme",
+                  "usage_examples": ["ribozyme"]
+                },
+                {
+                  "term": "-mer",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "part, segment",
+                  "usage_examples": ["polymer", "dimer", "trimer"]
+                },
+                {
+                  "term": "-oidal",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "resembling, like",
+                  "usage_examples": ["cuboidal", "conoidal"]
+                },
+                {
+                  "term": "-ine",
+                  "category": "suffix",
+                  "origin": "Latin/Greek",
+                  "meaning": "pertaining to (common in chemical nomenclature)",
+                  "usage_examples": ["crystalline", "alkaline"]
+                },
+                {
+                  "term": "-ose",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "full of; sugar (carbohydrates)",
+                  "usage_examples": ["glucose", "fructose", "ribose"]
+                },
+                {
+                  "term": "-ol",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "alcohol, chemical compound",
+                  "usage_examples": ["ethanol", "methanol", "phenol"]
+                },
+                {
+                  "term": "-one",
+                  "category": "suffix",
+                  "origin": "Greek/Latin",
+                  "meaning": "ketone group",
+                  "usage_examples": ["testosterone", "acetone", "progesterone"]
+                },
+                {
+                  "term": "-ide",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "compound, derivative",
+                  "usage_examples": ["chloride", "oxide", "peptide"]
+                },
+                {
+                  "term": "-ate",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "salt or ester; to cause",
+                  "usage_examples": ["nitrate", "sulfate", "activate"]
+                },
+                {
+                  "term": "-ium",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "element or compound ending",
+                  "usage_examples": ["sodium", "calcium", "uranium"]
+                },
+                {
+                  "term": "-gen",
+                  "category": "suffix",
+                  "origin": "Greek",
+                  "meaning": "producing, forming",
+                  "usage_examples": ["antigen", "estrogen", "allergen"]
+                },
+                {
+                  "term": "-acid",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "pertaining to acid",
+                  "usage_examples": ["amino acid", "fatty acid"]
+                },
+                {
+                  "term": "-amine",
+                  "category": "suffix",
+                  "origin": "Latin/Greek",
+                  "meaning": "compound derived from ammonia",
+                  "usage_examples": ["adrenaline", "histamine"]
+                },
+                {
+                  "term": "-tion",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "act, process, or state",
+                  "usage_examples": ["digestion", "respiration", "mutation"]
+                },
+                {
+                  "term": "-sion",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "state or condition",
+                  "usage_examples": ["erosion", "division", "fusion"]
+                },
+                {
+                  "term": "-ory",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "pertaining to",
+                  "usage_examples": ["sensory", "urinary", "digestive"]
+                },
+                {
+                  "term": "-ary",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "relating to",
+                  "usage_examples": ["evolutionary", "vascular", "dietary"]
+                },
+                {
+                  "term": "-less",
+                  "category": "suffix",
+                  "origin": "Old English",
+                  "meaning": "without",
+                  "usage_examples": ["fearless", "endless", "motionless"]
+                },
+                {
+                  "term": "-ful",
+                  "category": "suffix",
+                  "origin": "Old English",
+                  "meaning": "full of",
+                  "usage_examples": ["joyful", "powerful", "thoughtful"]
+                },
+                {
+                  "term": "-able/-ible",
+                  "category": "suffix",
+                  "origin": "Latin",
+                  "meaning": "capable of being",
+                  "usage_examples": ["adaptable", "edible", "reversible"]
+                },
+                {
+                  "term": "-ish",
+                  "category": "suffix",
+                  "origin": "Old English",
+                  "meaning": "having the quality of",
+                  "usage_examples": ["childish", "greenish", "bookish"]
+                },
+                {
+                  "term": "-y",
+                  "category": "suffix",
+                  "origin": "Old English",
+                  "meaning": "characterized by",
+                  "usage_examples": ["sandy", "watery", "cloudy"]
+                }  
+    ]
